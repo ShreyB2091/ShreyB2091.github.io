@@ -14,17 +14,17 @@ name                     : &name "Shrey Bansal"
 description              : &description "personal description"
 url                      : https://shreyb2091.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ShreyB2091/shreyb2091.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "shreypic.png"
   name             : "Shrey Bansal"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I'm a Senior Undergraduate at IIT Kanpur in the CSE department. I am interested in Software and Computer Systems."
   location         : "Gurugram, India"
   employer         : "IIT Kanpur"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : "_shrey2091" # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "shrey-bansal-08a943231" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -194,7 +194,7 @@ markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
-incremental: false
+incremental: true
 
 
 # Markdown Processing
