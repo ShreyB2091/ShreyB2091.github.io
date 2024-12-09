@@ -24,7 +24,7 @@ author:
   avatar           : "shreypic.png"
   name             : "Shrey Bansal"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "I'm a Senior Undergraduate at IIT Kanpur in the CSE department. I am interested in Software and Computer Systems."
+  bio              : ""
   location         : "Gurugram, India"
   employer         : "IIT Kanpur"
   uri              : # URL
@@ -55,7 +55,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "_shrey2091" # Username
+  instagram        : # Username
   lastfm           : # Username
   linkedin         : "shrey-bansal-08a943231" # Username
   mastodon         : # URL
